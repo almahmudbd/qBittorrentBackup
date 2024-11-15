@@ -57,7 +57,7 @@ Replace `D:\qBittorrentBackup` with the path where you want to store or retrieve
 
 ---
 ## How Backup it Manually
-follow this guide = [.../main/How-to-backup-qBittorrent-Manually.md](https://github.com/almahmudbd/qBittorrent-Backup-Restorer/blob/main/How-to-backup-qBittorrent-Manually.md)
+follow this guide = [.../main/How-to-backup-qBittorrent-Manually.md](https://github.com/almahmudbd/qBittorrentBackup/blob/main/How-to-backup-qBittorrent-Manually.md)
 
 ---
 
