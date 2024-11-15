@@ -30,13 +30,15 @@ When you reinstall Windows, sometimes the drive letters (like D:, E:) can change
 
 ### 2. Restore Process
 
-1. Make sure `qBittorrent` is closed before restoring (use `Ctrl+Q` to close, and confirm in Task Manager that it’s not running).
+1. After installing qBittorrent, run at least once and then Close/Exit it, you may use `Ctrl+Q` to close.
 
-2. Double-click or run `restore_qBittorrent.bat` from the Command Prompt.
+2. Make sure `qBittorrent` is closed before restoring (confirm in Task Manager that it’s not running).
 
-3. The script will restore the data from the backup folder back to the original locations.
+3. Double-click or run `restore_qBittorrent.bat` from the Command Prompt.
 
-4. When done, open `qBittorrent`, and it should recognize all your torrents and settings.
+4. The script will restore the data from the backup folder back to the original locations.
+
+5. When done, open `qBittorrent`, and it should recognize all your torrents and settings.
 
 ### Optional: Change Backup Path
 
