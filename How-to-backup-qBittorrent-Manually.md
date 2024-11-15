@@ -1,4 +1,4 @@
-# How to backup/restore qBittorrent?
+# How to backup/restore qBittorrent datas?
 
 ## Backup Process:
 
