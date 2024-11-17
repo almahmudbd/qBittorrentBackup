@@ -44,7 +44,7 @@ When you reinstall Windows, sometimes the drive letters (like D:, E:) can change
 
 If you want to change the backup location, you can do so by editing the following line in both `backup_qBittorrent.bat` and `restore_qBittorrent.bat` files:
 
-`set backupPath=D:\qBittorrentBackup`
+**set backupPath=D:\qBittorrentBackup**
 
 Replace `D:\qBittorrentBackup` with the path where you want to store or retrieve the backup.
 
