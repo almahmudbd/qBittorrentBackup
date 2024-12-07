@@ -79,3 +79,23 @@ xcopy "%appdata%\qBittorrent" "%backupPath%\appdata" /s /e /y
 
 echo Backup complete. Files have been saved to %backupPath%
 pause
+```
+
+#### রিস্টোর স্ক্রিপ্ট (`restore_qBittorrent.bat`)
+
+```batch
+@echo off
+set backupPath=D:\qBittorrentBackup
+
+echo Restoring qBittorrent data...
+xcopy "%backupPath%\localappdata" "%localappdata%\qBittorrent" /s /e /y
+xcopy "%backupPath%\appdata" "%appdata%\qBittorrent" /s /e /y
+
+echo Restore complete. Your qBittorrent data has been restored.
+pause
+```
+
+## লাইসেন্স
+
+এই স্ক্রিপ্টগুলো "যেমন রয়েছে" ভিত্তিতে সরবরাহ করা হয়েছে, কোন প্রকার গ্যারান্টি ছাড়াই। নিজের ঝুঁকিতে ব্যবহার করুন।
+
