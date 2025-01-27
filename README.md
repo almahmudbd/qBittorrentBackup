@@ -2,6 +2,8 @@
 
 This guide provides two simple scripts to back up and restore your `qBittorrent` configuration and data files on Windows.
 
+**[[বাংলায় readme পড়ুন]](https://github.com/almahmudbd/qBittorrentBackup/blob/main/README-bn.md)**
+
 ## Overview
 
 The backup script will copy `qBittorrent` data files from your system’s `%localappdata%` and `%appdata%` folders and save them to a specified backup folder. The restore script will then copy these files back to the original locations if needed, restoring your `qBittorrent` settings and data.
