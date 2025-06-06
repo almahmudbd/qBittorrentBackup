@@ -1,4 +1,4 @@
-# qbittorent-backup-restore
+# qbittorent-backup-restore-tool
 1 click Backup and Restore Scripts/Apps for Preserving qBittorrent configs and .torrent files.
 
 This repo provides two simple scripts to back up and restore your `qBittorrent` configuration and data files on Windows.
