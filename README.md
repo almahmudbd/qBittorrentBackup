@@ -1,6 +1,7 @@
-# qBittorrent Backup and Restore Scripts
+# qbittorent-backup-restore
+1 click Backup and Restore Scripts for Preserving qBittorrent configs and .torrent files.
 
-This guide provides two simple scripts to back up and restore your `qBittorrent` configuration and data files on Windows.
+This repo provides two simple scripts to back up and restore your `qBittorrent` configuration and data files on Windows.
 
 **[[বাংলায় readme পড়ুন]](https://github.com/almahmudbd/qBittorrentBackup/blob/main/README-bn.md)**
 
